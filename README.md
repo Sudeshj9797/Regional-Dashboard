@@ -15,8 +15,8 @@ List the key technologies used to build the dashboard
 4)Microsoft Excel / CSV (assumed data format).
 
 🔗 Data Source:
-Sample Superstore Dataset (commonly used in BI projects for sales analysis)
-(If using a custom or external source, replace accordingly.)
+Sample Superstore Dataset (commonly used in BI projects for sales analysis).
+
 
 
 🌟 Features / Highlights:
