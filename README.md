@@ -32,6 +32,7 @@ Sample Superstore Dataset (commonly used in BI projects for sales analysis)
 
 📷 Screenshot / Demo
 Below is a preview of the Regional Sales Dashboard created in Power BI:
+(https://github.com/Sudeshj9797/Regional-Dashboard/blob/main/snapshot%20of%20dashboard.png)
 
 
 
