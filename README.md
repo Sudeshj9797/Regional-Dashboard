@@ -9,10 +9,10 @@ This project presents a dynamic and interactive Power BI dashboard for analyzing
 🛠️ Tech Stack:
 List the key technologies used to build the dashboard
 
-1.Power BI: Data visualization and dashboard development.
-2.DAX (Data Analysis Expressions): For calculated fields and measures.
-3.Power Query (M Language): For data transformation and cleaning.
-4.Microsoft Excel / CSV (assumed data format).
+1)Power BI: Data visualization and dashboard development.
+2)DAX (Data Analysis Expressions): For calculated fields and measures.
+3)Power Query (M Language): For data transformation and cleaning.
+4)Microsoft Excel / CSV (assumed data format).
 
 🔗 Data Source:
 Sample Superstore Dataset (commonly used in BI projects for sales analysis)
@@ -20,14 +20,14 @@ Sample Superstore Dataset (commonly used in BI projects for sales analysis)
 
 
 🌟 Features / Highlights:
-💰 KPI Cards: Shows key figures — Sales, Profit, Quantity, and Avg Delivery Days.
-🕒 Time Series Trend: Visualizes monthly sales and profit over 2 years (2019–2020).
-🧭 Region Filter: Dynamic region-wise analysis (Central, East, South, West).
-🗂️ Category & Sub-category Breakdown: Tracks top-performing segments and products.
-📦 Product & Segment Sales Distribution: Pie charts for quick glance at proportions.
-🚚 Ship Mode Sales: Evaluates performance of different shipping methods.
-🗺️ Map Visualization: Geo-analysis of state-wise sales in the selected region.
-📈 Interactive Visuals: Drill-down and tooltip-enabled charts for deep insights.
+1)KPI Cards: Shows key figures — Sales, Profit, Quantity, and Avg Delivery Days.
+2)Time Series Trend: Visualizes monthly sales and profit over 2 years (2019–2020).
+3)Region Filter: Dynamic region-wise analysis (Central, East, South, West).
+4)Category & Sub-category Breakdown: Tracks top-performing segments and products.
+5)Product & Segment Sales Distribution: Pie charts for quick glance at proportions.
+6)Ship Mode Sales: Evaluates performance of different shipping methods.
+7)Map Visualization: Geo-analysis of state-wise sales in the selected region.
+8)Interactive Visuals: Drill-down and tooltip-enabled charts for deep insights.
 
 
 📷 Screenshot / Demo
